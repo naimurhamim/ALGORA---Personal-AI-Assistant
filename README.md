@@ -1,0 +1,1 @@
+Algora Ai is an intelligent personal assistant designed to help you control your computer and provide instant answers to your queries. Whether you want to run tasks, automate workflows, or get information, Algora Ai listens to your commands and performs them seamlessly.
