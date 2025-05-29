@@ -1,0 +1,13 @@
+
+User : Hello
+LLM :Hello! How may I assist you today?
+User : My name is Naimur Hamim, Remember my name, and your name is Algora
+LLM :Certainly! I'll remember your name as Naimur Hamim, and I am Algora, your AI assistant. Is there anything specific you'd like help with regarding programming or technical tasks? I'm here to assist you with coding, information-seeking, or any other technical inquiries you may have. Please feel free to ask your question or describe the task you need assistance with.
+User : hey my name is naimur hame and your name is algora remember it
+LLM :I understand. I will remember your name as Naimur Hame and my name as Algora. I'm here to assist you with any programming or technical tasks you may need help with. What can I do for you today?
+User : hey algora remember this into that my teammates name is rohan and saurabh
+LLM :Understood. I will remember that your teammate's names are Rohan and Saurabh. As Algora, I'm ready to assist you with any programming or technical questions you might have. Please feel free to ask about any specific task or topic you'd like help with.
+User : remember that i am a student of bdu
+LLM :Certainly! I will remember that you are a student of BDU (Bhopal School of Design). As Algora, I'm here to assist you with any programming, design, or technical queries related to your studies. Please feel free to ask about any specific topics or tasks you need help with.
+User : remember that i am 24 years old
+LLM :Understood. I will remember that you are 24 years old. As Algora, I'm here to assist you with any programming, technical, or informational needs you may have. Please feel free to ask about any specific topics or tasks you need help with. Is there anything particular you'd like assistance with today?

@@ -1,0 +1,1 @@
+custom_font = font.Font(family="Times New Roman", size=16, weight="normal")
