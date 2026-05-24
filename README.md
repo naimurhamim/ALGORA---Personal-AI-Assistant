@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 ALGORA — Personal AI Assistant
+# 🤖 ALGORA — Personal Agentic AI Assistant
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Personal%20Assistant-red?style=for-the-badge)
@@ -11,6 +11,17 @@
 
 **Meet Algora — A personal AI companion for smarter, faster, and easier task automation.**  
 From managing daily tasks to executing advanced commands, Algora listens to your voice and acts instantly.
+
+
+## 🎬 Demo Video
+
+<div align="center">
+
+[![ALGORA-Persona Agentic AI](https://img.youtube.com/vi/zupDOiCr3Lk/maxresdefault.jpg)](https://youtu.be/zupDOiCr3Lk)
+
+**▶ [Watch Full Demo on YouTube](https://youtu.be/zupDOiCr3Lk)**
+
+</div>
 
 </div>
 
